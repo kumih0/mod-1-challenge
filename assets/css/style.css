@@ -66,10 +66,13 @@ p {
     margin-left: 25px;
 }
 
-.main-content {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}  
+
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -96,6 +99,9 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+ 
+.benefits-section{
     margin-bottom: 32px;
     color: #ffffff;
 }
