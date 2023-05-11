@@ -34,7 +34,8 @@
     Further consolidation and trimming of redundant code following DRY coding practices.
 
 # Screenshot
-![Screenshot of Mock-Up Website] (assets/images/01-html-css-git-homework-demo.png)
+![Screenshot of Mockup Website](https://github.com/kumih0/mod-1-refactoring-website/assets/132851569/8da4d64a-1c02-4c32-895b-ee7baa2a2b40)
+
 
 # Live Link
 https://kumih0.github.io/mod-1-refactoring-website/
